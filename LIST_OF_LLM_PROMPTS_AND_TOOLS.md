@@ -1,24 +1,11 @@
-# LLM-Assisted Development Documentation
+
 
 ## Project: Number Guessing Repair Lab
 
 ### Developer
 Vikas Kulakarni
 
-### Objective
 
-The objective of this project was to repair and enhance an existing Python/Pygame
-Number Guessing Game. I used ChatGPT as a debugging and pair-programming
-assistant to understand the existing implementation, identify bugs, implement the
-required features, review the changes, and verify the final behavior.
-
-The main requirements were:
-
-1. Fix the crash caused by submitting an empty input.
-2. Add dynamic range hints based on previous guesses.
-3. Display the last five guesses with appropriate indicators.
-4. Add a maximum of seven attempts, a GAME_OVER state, secret-number reveal,
-   and restart functionality.
 
 ---
 
